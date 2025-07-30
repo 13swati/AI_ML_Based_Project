@@ -65,7 +65,7 @@ It also includes an interactive input form using **Google Colab widgets**, allow
 ---
 
 ## 📸 Sample Output
-![Prediction Screenshot](Screenshot 2025-07-30 161547.png)
+![Prediction Screenshot](https://github.com/13swati/AI_ML_Based_Project/blob/Screenshot 2025-07-30 161547.png?raw=true)
 
 ---
 
