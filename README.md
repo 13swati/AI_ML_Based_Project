@@ -65,7 +65,7 @@ It also includes an interactive input form using **Google Colab widgets**, allow
 ---
 
 ## 📸 Sample Output
-![Prediction Screenshot](link-to-your-image-if-uploaded)
+![Prediction Screenshot](Screenshot 2025-07-30 161547.png)
 
 ---
 
